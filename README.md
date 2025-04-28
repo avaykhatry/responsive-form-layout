@@ -18,7 +18,7 @@ CSS3 (Flexbox)
 How to Use
 
 Clone the repository:
-git clone https://github.com/your-username/responsive-form-layout.git
+git clone https://github.com/avaykhatry/responsive-form-layout.git
 Open the index.html file in your browser to view the form.
 
 License
